@@ -13,6 +13,14 @@ BMI Screen:- <br />
 Also in the History Screen your previous workouts date and time will be added <br />
 History Screen:- <br />
 ![image](https://github.com/AyeMan0001/7MinsWorkout/assets/132835906/c3a565a0-c4bc-4eb1-8481-a8b1922acb3a) <br />
+How to use it :- <br />
+1. Open Android Studio
+2. Instead of creating a new project, choose *Checkout project from Version Control*.
+3. Select **GitHub**, then login.
+4. Copy the clone link from your forked repository, and paste it.
+5. Select an appropriate folder location, and press ***Clone***
+6. Open the Project.
+
 
 
 
